@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Likesh
 - 👀 I’m interested in solving different problems
-- 🌱 I’m currently learning nodejs
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nodejs and best practices for Low Level Design
+- 💞️ I’m looking to collaborate on nodejs or Java Project...
 - 📫 How to reach me via my linkedin-https://www.linkedin.com/in/likeshkewat/
 
 <!---
