@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likesh-123" alt="likesh-123" /></a> </p>
 
+- 🔭 I’m currently working on [memories project](https://github.com/likesh-123/memories)
+
+- 🌱 I’m currently learning **nodejs, Java, Cloud and best practices for Low Level Design**
+
+- 👀 I’m looking to collaborate on 👯 **nodejs or Java Project...**
+
 - 👨‍💻 All of my projects are available at [https://github.com/likesh-123?tab=repositories](https://github.com/likesh-123?tab=repositories)
 
 - 💬 Ask me about **Javascript, nodejs, mongodb, sql, etc**
