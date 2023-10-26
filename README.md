@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=likesh-123" alt="likesh-123" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently working on [memories project](https://github.com/likesh-123/memories)
 
 - 🌱 I’m currently learning **nodejs, Java, Cloud and best practices for Low Level Design**
