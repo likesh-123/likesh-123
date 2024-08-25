@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on [memories project](https://github.com/likesh-123/memories)
+- 🔭 I’m currently working on [Truecaller 2.0]  // (https://github.com/likesh-123/memories)
 
 - 🌱 I’m currently learning **nodejs, Java, Cloud and best practices for Low Level Design**
 
