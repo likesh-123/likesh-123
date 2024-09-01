@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **leekesh1811@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y8Q-HYGXh2kRtb9MYFMzvXz51FK_EY6F/view?usp=drivesdk](https://drive.google.com/file/d/1Y8Q-HYGXh2kRtb9MYFMzvXz51FK_EY6F/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GpOQkwk58OBBt3qJcvX4nXF4GBiK6Nx_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
